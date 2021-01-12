@@ -4,4 +4,4 @@ which can extend over several square meters. Despite their supposedly primitive 
 the species mentioned is particularly known for growing “intelligently” in search of food.
 
 
-This project contains a visual representation of a "blob" navigating a maze...
+This project contains a visual representation of a "blob" navigating a maze.
